@@ -1,4 +1,4 @@
-# README para Aplicativo de Envio de Email Automático
+# Aplicaticação de Envio de Email Automático
 
 Este documento fornece uma visão geral e instruções para a utilização de um aplicativo simples em Python para enviar e-mails automaticamente. O script usa a biblioteca `smtplib` para conectar-se a um servidor de e-mail e enviar uma mensagem.
 
@@ -53,6 +53,8 @@ python nome_do_seu_script.py
 ## Segurança
 
 Como boa prática de segurança, não armazene senhas diretamente no código-fonte. Este script usa um arquivo separado para armazenar a senha, mas existem métodos mais seguros para gerenciar credenciais, como variáveis de ambiente ou gerenciadores de segredos.
+
+---
 
 ## Limitações e Considerações
 
